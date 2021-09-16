@@ -29,4 +29,5 @@ public class Persona {
     public String toString() {
         return "%s %s".formatted(nombre, apellidos);
     }
+
 }
