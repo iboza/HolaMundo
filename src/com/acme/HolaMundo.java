@@ -9,4 +9,5 @@ public class HolaMundo {
         Persona p1 = new Persona(nombre, apellidos);
         msg.saludar(p1);
     }
+
 }
