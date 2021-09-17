@@ -1,6 +1,7 @@
 package com.acme;
 
 public class HolaMundo {
+
     public static void main(String[] args) {
 
         Mensaje msg = new Mensaje();
